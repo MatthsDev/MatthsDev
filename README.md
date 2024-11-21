@@ -1,4 +1,5 @@
-## Olá Galera, bem-vindo ao meu perfil 👋
+## Olá Galera, eu sou Matheus Araujo.
+Seja bem-vindo ao meu perfil 👋
 
 <!--
 **MatthsDev/MatthsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
