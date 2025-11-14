@@ -69,7 +69,9 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos de desenvolvimen
 ---
 
 ### 📫 Onde me encontrar
-📷 Instagram: [@matths.ar](##)  
-💼 LinkedIn: [Matheus Araújo](##)
+
+**Matheus – Desenvolvedor Full Stack**  
+📧 Email: **wmatheus.dev@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/matheus-araujo-7a4388302**
 
 ---
