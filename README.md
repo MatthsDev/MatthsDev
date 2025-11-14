@@ -42,14 +42,16 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos de desenvolvimen
 ---
 
 ### 🧠 Outros Conhecimentos
-- Desenvolvimento de **APIs REST e RESTful**
-- Integração com **bancos de dados relacionais**
-- Manipulação assíncrona com **AJAX**
-- Containerização com **Docker**
-- Versionamento com **Git/GitHub**
-- Padrões **MVC**, **Clean Code** e **SOLID**
-- Testes com **JUnit** e **Postman**
-- Experiência com **arquitetura backend em Java (Spring Boot)** e **PHP (Laravel)**
+- 🔹 Desenvolvimento de **APIs REST e RESTful**
+- 🔹 Integração com **bancos de dados relacionais** (MySQL, PostgreSQL)
+- 🔹 Manipulação assíncrona com **AJAX**
+- 🔹 Containerização com **Docker**
+- 🔹 Versionamento com **Git/GitHub**
+- 🔹 Padrões de projeto: **MVC**, **Clean Code**, **SOLID**
+- 🔹 Experiência com **backend em Java (Spring Boot)** e **PHP (Laravel)**
+- 🔹 Desenvolvimento **full stack** com Node.js, React.js e Tailwind CSS
+- 🔹 Arquitetura e modelagem de **bancos de dados**
+
 
 ---
 
@@ -57,14 +59,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos de desenvolvimen
 
 [![MatthsDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatthsDev&count_private=true&show_icons=true&theme=dark)](https://github.com/MatthsDev/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthsDev&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📂 Projetos em Destaque
-
-- 🎯 ##.  
-- 💡 [MeetFlix](##) — Projeto Java para aprendizado e manipulação de dados com Gson.  
-- 🧩 [Java Desafios](###) — Repositório com exercícios práticos para aprimorar lógica e estruturas em Java.  
 
 ---
 
